@@ -1,0 +1,10 @@
+{
+  "e5468e0d-52d8-4c1a-9b90-3a22ed2018e4": {
+    "id": "e5468e0d-52d8-4c1a-9b90-3a22ed2018e4",
+    "original_from": "user <user@domain.com>",
+    "original_subject": "<subject>",
+    "original_text": "<received mail body>",
+    "reply_text": "<Mail response>",
+    "status": "<waiting/success>"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "IMAP_SERVER" : "imap.<server>.com",
+    "IMAP_PORT" : "993",
+    "SMTP_SERVER" : "smtp.<server>.com",
+    "USERNAME" : "<user@domain.com>",
+    "PASSWORD" : "<APP Password>", 
+    "APPROVER_EMAIL" : "<approver@domain.com>",
+    "PENDING_FILE" : "PENDING__log_file.json",
+    "LOG_FILE" :" log.txt" ,
+    "GOOGLE_API_KEY" : "<APIKEY>",
+    "GOOGLE_API_URL" : "<GEMINI URL>"
+}
