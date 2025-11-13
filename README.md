@@ -17,7 +17,7 @@ It streamlines the process of managing and replying to emails, ensuring only rel
 
 ## 🚀 Features
 
-✅ **IMAP Mail Monitoring** — Continuously checks your inbox for new unseen emails.  
+✅ **IMAP (Internet Message Access Protocol) Mail Monitoring** — Continuously checks your inbox for new unseen emails.  
 🤖 **AI-Based Classification** — Uses OpenAI to categorize mail as:  
    - `Work Related`  
    - `Personal`  
@@ -28,6 +28,7 @@ It streamlines the process of managing and replying to emails, ensuring only rel
    - Reply `"Yes"` → System sends the response to the sender.  
    - Reply `"No"` → Response is ignored.  
 📂 **File Storage** — All generated responses and logs are saved locally.
+🧠 **smtplib connection** -- SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon. 
 
 ---
 
